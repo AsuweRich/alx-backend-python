@@ -29,16 +29,16 @@ Resources
 
 **Read or watch:**
 
--   [unittest --- Unit testing framework](https://alx-intranet.hbtn.io/rltoken/a_AEObGK8jeqPtTPmm-gIA "unittest --- Unit testing framework")
--   [unittest.mock --- mock object library](https://alx-intranet.hbtn.io/rltoken/PKetnACd7FfRiU8_kpe5EA "unittest.mock --- mock object library")
--   [How to mock a readonly property with mock?](https://alx-intranet.hbtn.io/rltoken/2ueVPK1kWZuz525FvZ1v2Q "How to mock a readonly property with mock?")
--   [parameterized](https://alx-intranet.hbtn.io/rltoken/mI7qc3Y42aZ7GTlLXDxgEg "parameterized")
--   [Memoization](https://alx-intranet.hbtn.io/rltoken/x83Hdr54q4Vax5xQ2Z3HSA "Memoization")
+-   [unittest --- Unit testing framework](https://docs.python.org/3/library/unittest.html "unittest --- Unit testing framework")
+-   [unittest.mock --- mock object library](https://docs.python.org/3/library/unittest.mock.html "unittest.mock --- mock object library")
+-   [How to mock a readonly property with mock?](https://stackoverflow.com/questions/11836436/how-to-mock-a-readonly-property-with-mock "How to mock a readonly property with mock?")
+-   [parameterized](https://pypi.org/project/parameterized/ "parameterized")
+-   [Memoization](https://en.wikipedia.org/wiki/Memoization "Memoization")
 
 Learning Objectives
 -------------------
 
-At the end of this project, you are expected to be able to [explain to anyone](https://alx-intranet.hbtn.io/rltoken/NfT-nNKrNHGrDMY-Qm-1Dg "explain to anyone"), **without the help of Google**:
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/ "explain to anyone"), **without the help of Google**:
 
 -   The difference between unit and integration tests.
 -   Common testing patterns such as mocking, parametrizations and fixtures
